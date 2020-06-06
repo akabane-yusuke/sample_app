@@ -5,7 +5,7 @@ ruby '2.6.3'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.0'
-
+gem 'bcrypt',         '3.1.13'
 gem 'bootstrap-sass', '3.4.1'
 # Use  as the database for Active Record
 # gem '', '~> 1.4'
